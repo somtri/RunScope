@@ -1,0 +1,16 @@
+/backend/target/
+/backend/run_scope.db
+/backend/run_scope.db-shm
+/backend/run_scope.db-wal
+/frontend/node_modules/
+/frontend/dist/
+/.vite/
+/run_scope.db
+/run_scope.db-shm
+/run_scope.db-wal
+*.tsbuildinfo
+/.tools/
+/.idea/
+/.vscode/
+*.log
+.DS_Store
